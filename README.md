@@ -3,7 +3,7 @@ This research group project was completed in partial fulfilment of the requireme
   
 Chest X-Rays are extensively used in field of medical to examine chest,heart,lungs blood veseels and other surrounding structure in human body for possible medical conditions and identifications of diseased ailments such as Pneumonia,Cardiomegaly,Effusion,Pleural_Thickening and other chest issues.Recently some of COVID-19 cases has been detected using Chest X-Rays.All classification of diseases is done manually.Presently,there is no automated framework exist to accurately classification diseases using Chest X-Ray.Standford ML Group has developed [CheXNet](https://stanfordmlgroup.github.io/projects/chexnet/) to detect pneumonia from chest X-rays at a level exceeding practicing radiologists.This has caused huge interest in developing automated framework to correctly predict diseases.<br/>
 
-Our project aims to apply image classfication techniques using Deep Learning to classify X-Rays into 14 categories :
+Our project aims to apply image classification techniques using Deep Learning to classify X-Rays into 14 categories :
 * Atelectasis
 * Cardiomegaly
 * Consolidation 
