@@ -88,3 +88,13 @@ Compiling the model requires three key factors.
 
 ### Model Training
 The model is trained for 1 and 5 epochs respectively. Each epoch runs in steps is (train_gen.n // train_gen.batch_size) which is equal to 1226.
+
+## Results
+
+### Model Accuracy
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| Binary_Accuracy      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
