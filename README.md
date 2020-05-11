@@ -23,7 +23,7 @@ Our project aims to apply image classification techniques using Deep Learning to
 ## Technologies and Tools
 * Tensorflow 
 * Keras
-* OpenCV-Python (Python API for Python)
+* OpenCV-Python (Python API for OpenCV)
 
 ## Tensorflow
 Tensorflow is an open source machine learning developed by Google as part of its Google Brain Project.
