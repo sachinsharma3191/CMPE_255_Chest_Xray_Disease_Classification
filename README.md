@@ -30,7 +30,7 @@ Tensorflow is an open source machine learning developed by Google as part of its
 Keras is an open source neural network libray written in Python.It is built on top on Tensorflow and can be easily integrated with other neural network libraries
 
 ## OpenCV-Python
-OpenCV is computer vision library release by Intel in 1999 and first release in 2000.OpenCV-Python is the Python API of OpenCV. It combines the best qualities of OpenCV C++ API and Python language.
+OpenCV is computer vision library release by Intel in 1999 and first release in 2000. OpenCV-Python is the Python API of OpenCV. It combines the best qualities of OpenCV C++ API and Python language.
 
 ## Dataset
 National Institutes of Health Chest X-Ray Dataset. It consists of 112,120 X-ray images with disease labels from 30,805 unique patients 
