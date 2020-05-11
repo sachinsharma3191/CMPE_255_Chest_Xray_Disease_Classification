@@ -93,8 +93,8 @@ The model is trained for 1 and 5 epochs respectively. Each epoch runs in steps i
 
 ### Model Accuracy
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| Binary_Accuracy      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Metrics        | MobileNet(Epoch =1) |MobileNet(Epoch =5)  | ResNet (Epoch =1)  | ResNet (Epoch =5) | ResNet (Epoch =10) | DensetNet169 (Epoch= 1) | Denset169 (Epoch = 5)
+| ------: |:--------:| -----:|  ------: |:-----:| -----:| ---------: | ------ | 
+| Binary_Accuracy      | 0.8786 |	0.8791 |	0.9116 |	0.9150 | 0.9180 |	0.8371 |0.8602
+| Val_loss      | 0.3688 |	0.3443 |	0.2457 |	0.2018 |	0.2387 |	1.3201 |	2.7672
+| Val_binary_accuracy | 0.8789 | 0.8793 |	0.9124 |0.9137	| 0.9157 | 0.8401 |	0. 8210
